@@ -30,7 +30,7 @@
 
 ## 📈 GitHub Stats
 
-![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
+![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amariagil&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -44,5 +44,5 @@
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/SEULINKAQUI)
-- E-mail: seuemail@exemplo.com
+- [LinkedIn](https://www.linkedin.com/in/amariagil)
+- E-mail: alvesgilmariaeduarda@gmail.com
