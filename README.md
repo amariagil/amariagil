@@ -1,9 +1,9 @@
 # Olá! Eu sou a Maria Eduarda 👋
 
 🎓 Estudante de **Sistemas de Informação** na UFMS  
-💻 Desenvolvedora em formação — apaixonada por **tecnologia**, **inteligência artificial** e **projetos sociais**  
-🚀 Participante ativa de **competições de programação**, **iniciativas para meninas na tecnologia** e projetos com **PHP e Web**  
-📊 Explorando o mundo de **dados e analytics**, buscando sempre aprender mais!
+💻 Desenvolvedora em formação
+🚀 Participante ativa de **competições de programação**, **iniciativas para meninas na tecnologia** e projetos com **JavaScript e React** para web  
+📊 Explorando o mundo de **dados e analytics**
 
 ---
 
